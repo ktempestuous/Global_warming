@@ -6,7 +6,7 @@ Datasets from Kaggle:
 - CO2: https://www.kaggle.com/datasets/samithsachidanandan/average-monthly-surface-temperature-1940-2024
 - 2m surface temperature: https://www.kaggle.com/datasets/ucsandiego/carbon-dioxide
 
-1) Data exploration with python pandas. Tidied and sorted data to create csv files to be imported into Tableau.
+1) Data exploration with python pandas (Data exploration.ipynb). Tidied and sorted data to create csv files to be imported into Tableau.
 2) Data visualisation with Tableau.
 - Dashboard shows: 
 - top) world map showing difference in yearly averaged temperature between year selected on slider, and 1940.
